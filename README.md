@@ -1,16 +1,18 @@
-﻿📊 CodeAlpha Data Analytics Internship 
+📊 CodeAlpha Data Analytics Internship Portfolio
+
+
 
 Welcome to my Data Analytics internship repository! This repository showcases the projects and data-driven solutions developed during my internship at CodeAlpha. It features a comprehensive lifecycle of data analysis—ranging from raw automated web data collection to advanced data cleaning, interactive visualizations, and applied machine learning (Natural Language Processing).
 
 🔗 Project Links
+
+
 
 Live Deployed Dashboard: https://insasaleem.github.io/CodeAlpha_Data_Analytics/
 
 Source Code Repository: https://github.com/InsaSaleem/CodeAlpha_Data_Analytics
 
 📂 Repository Architecture
-
-The repository is structured as a single, centralized workspace holding all the necessary source code notebook files, custom-built datasets, and standalone analytical deployment assets:
 
 CodeAlpha_Data_Analytics/
 ├── docs/
