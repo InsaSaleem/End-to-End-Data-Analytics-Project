@@ -26,10 +26,10 @@ End-to-End-Data-Analytics/
 │
 ├── Task 1_WebScraping/
 │   ├── books_scraped.csv
-│   └── CodeAlpha_WebScraping.ipynb
+│   └── WebScraping.ipynb
 │
 ├── Task 2_EDA/
-│   ├── CodeAlpha_EDA.ipynb
+│   ├── EDA.ipynb
 │   ├── eda_analysis.png
 │   └── missing_values.png
 │
@@ -38,12 +38,12 @@ End-to-End-Data-Analytics/
 │   ├── chart2_bar.png
 │   ├── chart3_pie.png
 │   ├── chart4_heatmap.png
-│   ├── CodeAlpha_DataVisualization.ipynb
+│   ├── DataVisualization.ipynb
 │   ├── interactive_dashboard.html
 │   └── interactive_dashboard.png
 │
 ├── Task 4_SentimentAnalysis/
-│   ├── CodeAlpha_SentimentAnalysis.ipynb
+│   ├── SentimentAnalysis.ipynb
 │   ├── sentiment_dashboard.png
 │   └── wordclouds.png
 │
