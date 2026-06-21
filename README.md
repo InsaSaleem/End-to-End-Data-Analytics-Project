@@ -19,7 +19,7 @@ https://github.com/InsaSaleem/CodeAlpha_Data_Analytics
 # 📁 Repository Structure
 
 ```bash
-CodeAlpha_Data_Analytics/
+End-to-End-Data-Analytics/
 │
 ├── docs/
 │   └── index.html
