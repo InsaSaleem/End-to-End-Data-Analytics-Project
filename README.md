@@ -24,16 +24,16 @@ End-to-End-Data-Analytics/
 ├── docs/
 │   └── index.html
 │
-├── Task 1_CodeAlpha_WebScraping/
+├── Task 1_WebScraping/
 │   ├── books_scraped.csv
 │   └── CodeAlpha_WebScraping.ipynb
 │
-├── Task 2_CodeAlpha_EDA/
+├── Task 2_EDA/
 │   ├── CodeAlpha_EDA.ipynb
 │   ├── eda_analysis.png
 │   └── missing_values.png
 │
-├── Task 3_CodeAlpha_DataVisualization/
+├── Task 3_DataVisualization/
 │   ├── chart1_line.png
 │   ├── chart2_bar.png
 │   ├── chart3_pie.png
@@ -42,7 +42,7 @@ End-to-End-Data-Analytics/
 │   ├── interactive_dashboard.html
 │   └── interactive_dashboard.png
 │
-├── Task 4_CodeAlpha_SentimentAnalysis/
+├── Task 4_SentimentAnalysis/
 │   ├── CodeAlpha_SentimentAnalysis.ipynb
 │   ├── sentiment_dashboard.png
 │   └── wordclouds.png
