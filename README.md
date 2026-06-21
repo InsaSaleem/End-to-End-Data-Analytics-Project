@@ -1,4 +1,4 @@
-# 📊 CodeAlpha Data Analytics Internship 
+# 📊 End-to-End-Data-Analytics-Workflow
 
 A complete collection of real-world Data Analytics projects developed during my internship at CodeAlpha. This repository demonstrates the end-to-end analytics workflow including automated data collection, data preprocessing, exploratory analysis, interactive visualization, dashboard development, and Natural Language Processing (NLP)-based sentiment analysis.
 
@@ -48,6 +48,7 @@ CodeAlpha_Data_Analytics/
 │   └── wordclouds.png
 │
 └── README.md
+
 ```
 
 ---
