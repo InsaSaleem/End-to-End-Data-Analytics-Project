@@ -8,12 +8,11 @@ A complete collection of real-world Data Analytics projects developed during my 
 
 ### 🌐 Live Interactive Dashboard
 
-https://insasaleem.github.io/CodeAlpha_Data_Analytics/
+ https://insasaleem.github.io/End-to-End-Data-Analytics-Project/
 
 ### 💻 GitHub Repository
 
-https://github.com/InsaSaleem/CodeAlpha_Data_Analytics
-
+https://github.com/InsaSaleem/End-to-End-Data-Analytics-Project
 ---
 
 # 📁 Repository Structure
@@ -214,7 +213,8 @@ Achieved approximately **92% agreement accuracy** between VADER and TextBlob sen
 
 The interactive dashboard can be viewed directly in the browser:
 
-👉 https://insasaleem.github.io/CodeAlpha_Data_Analytics/
+👉 https://insasaleem.github.io/End-to-End-Data-Analytics-Project/
+
 
 ---
 
@@ -236,7 +236,6 @@ During this internship, I gained hands-on experience in:
 
 ### Insa Saleem
 
-Data Analytics Intern — CodeAlpha
 
 GitHub:
 https://github.com/InsaSaleem
