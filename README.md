@@ -13,6 +13,7 @@ A complete collection of real-world Data Analytics projects developed during my 
 ### 💻 GitHub Repository
 
 https://github.com/InsaSaleem/End-to-End-Data-Analytics-Project
+
 ---
 
 # 📁 Repository Structure
